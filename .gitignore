@@ -1,0 +1,10 @@
+# Ignore datasets
+audio_dataset/
+raksha_ml_project/audio_dataset/
+
+# Ignore audio files
+*.wav
+
+# Python cache
+__pycache__/
+*.pyc
