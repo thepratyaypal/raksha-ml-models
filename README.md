@@ -1,3 +1,5 @@
+Project Name: R.A.K.S.H.A  
+Full Form: Real-time AI-based Kinetic Safety & Help Assistant
 R.A.K.S.H.A ML Models is a dual-model AI system designed for personal safety applications. It combines audio analysis and motion detection to identify emergency situations in real-time.
 Use Cases
 
