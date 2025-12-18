@@ -86,7 +86,6 @@ Size: 0.5-1 MB (TFLite)
 raksha-ml-models/
 │
 ├── README.md                      # This file
-├── LICENSE                        # MIT License
 ├── requirements.txt               # Python dependencies
 ├── setup_raksha.py               # Automated setup script
 │
